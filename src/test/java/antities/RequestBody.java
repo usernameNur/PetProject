@@ -1,4 +1,4 @@
-package API;
+package antities;
 
 import lombok.Data;
 
